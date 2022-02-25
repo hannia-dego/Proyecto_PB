@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Luis Moreno\source\repos\Proyecto avance\Proyecto avance\Source.cpp(12,11): warning C4101: 'hora': variable local sin referencia
+C:\Users\Luis Moreno\source\repos\Proyecto avance\Proyecto avance\Source.cpp(12,17): warning C4101: 'preciou': variable local sin referencia
+C:\Users\Luis Moreno\source\repos\Proyecto avance\Proyecto avance\Source.cpp(12,26): warning C4101: 'preciotrat': variable local sin referencia
+  Proyecto avance.vcxproj -> C:\Users\Luis Moreno\source\repos\Proyecto avance\x64\Debug\Proyecto avance.exe
